@@ -59,6 +59,15 @@
 - **Links:**
   - [Website](https://moonjiuk.github.io/safehikingtour/)
   - [GitHub Repository](https://github.com/moonjiuk/safehikingtour)
+ 
+  <div align="center">
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://via.placeholder.com/300x150.png?text=My+Website" alt="My Website" style="margin: 10px;"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://via.placeholder.com/300x150.png?text=My+GitHub" alt="My GitHub" style="margin: 10px;"/>
+  </a>
+</div>
 
  ### 달 소개 웹페이지
 - **Period:** 2022.6 - 2022.7

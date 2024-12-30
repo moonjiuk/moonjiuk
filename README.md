@@ -22,48 +22,88 @@
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+  ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 ---
 
 ## 📂 Projects
 
 ### 온라인 독립영화 플랫폼
-- **Project Name:** Undergnd
-- **Period:** 2023.4 - 2024.2
-- **Description:** 독립영화 환경을 개선하기 위해 온라인 독립영화 플랫폼을 구축. 사용자 화면(OTT 서비스)과 관리자 화면으로 구성되며, CSUMB에서 Online Film Festival을 개최함.
-- **Role:** 팀 운영, 서비스 기획 및 설계, 와이어프레임 제작
-- **Tech Stack:**
-  - Figma, React, Node.js, Git
-  - AWS (Amazon Route 53), GCP (Compute Engine, Cloud Storage, Cloud DNS)
-- **Links:**
-  - [Website](#)
-  - [GitHub Repository](https://github.com/moonjiuk/undergnd)
+🗓 **Period:** 2023.4 - 2024.2
+
+🎯 **Description:**
+독립영화 환경을 개선하기 위해 온라인 독립영화 플랫폼을 구축. 사용자 화면(OTT 서비스)과 관리자 화면으로 구성되며, CSUMB에서 Online Film Festival을 개최함.
+
+💼 **Role:**
+팀 운영, 서비스 기획 및 설계, 와이어프레임 제작
+
+💻 **Tech Stack:**
+Figma, React, Node.js, Git, AWS (Amazon Route 53), GCP (Compute Engine, Cloud Storage, Cloud DNS)
+
+🔗 **Links:**
+- [Website](#)
+- [GitHub Repository](https://github.com/moonjiuk/undergnd)
+
+---
 
 ### 영화 포스터 생성 AI
-- **Period:** 2024.9 - 2024.11
-- **Description:** 영화 동영상과 정보를 활용해 포스터를 자동 생성하는 AI 구현
-- **Role:** 1인 개발
-- **Tech Stack:** Python, Pandas, Numpy, OpenCV, YOLOv5, PyTorch
-- **Links:**
-  - [Website](#)
-  - [GitHub Repository](https://github.com/moonjiuk/poster-ai)
+🗓 **Period:** 2024.9 - 2024.11
 
-### 기타 영화 관련 기능 구현
-- **AI 영화 추천 챗봇** (2024.9)
-  - Gemini API 활용하여 영화 추천 기능 구현
-  - **Links:** [GitHub Repository](https://github.com/moonjiuk/movie-recommendation-bot)
-- **영화 스트리밍** (2024.10)
-  - C++와 Socket, Multi-Thread를 활용해 스트리밍 기능 구현
-  - **Links:** [GitHub Repository](https://github.com/moonjiuk/movie-streaming)
+🎯 **Description:**
+영화 동영상과 정보를 활용해 포스터를 자동 생성하는 AI 구현
+
+💼 **Role:**
+1인 개발
+
+💻 **Tech Stack:**
+Python, Pandas, Numpy, OpenCV, YOLOv5, PyTorch
+
+🔗 **Links:**
+- [Website](#)
+- [GitHub Repository](https://github.com/moonjiuk/poster-ai)
+
+---
+
+### AI 영화 추천 챗봇
+🗓 **Period:** 2024.9
+
+🎯 **Description:**
+Gemini API를 활용하여 영화 추천 기능 구현
+
+💼 **Role:**
+1인 개발
+
+🔗 **Links:**
+- [GitHub Repository](https://github.com/moonjiuk/movie-recommendation-bot)
+
+---
+
+### 영화 스트리밍
+🗓 **Period:** 2024.10
+
+🎯 **Description:**
+C++와 Socket, Multi-Thread를 활용해 스트리밍 기능 구현
+
+💼 **Role:**
+1인 개발
+
+🔗 **Links:**
+- [GitHub Repository](https://github.com/moonjiuk/movie-streaming)
+
+---
 
 ### 등산 위험지역 지도 서비스
-- **Period:** 2024.4 - 2024.9
-- **Description:** 등산 사고를 예방하기 위한 위험지역 정보 제공 서비스 구축
-- **Role:** 1인 개발
-- **Tech Stack:**
-  - HTML, CSS, JavaScript, React
-  - Kakao Map API, Gemini API
-  - Python (Numpy, Pandas)
-- **Links:**
-  - [Website](#)
-  - [GitHub Repository](https://github.com/moonjiuk/hiking-safety-map)
+🗓 **Period:** 2024.4 - 2024.9
+
+🎯 **Description:**
+등산 사고를 예방하기 위한 위험지역 정보 제공 서비스 구축
+
+💼 **Role:**
+1인 개발
+
+💻 **Tech Stack:**
+HTML, CSS, JavaScript, React, Kakao Map API, Gemini API, Python (Numpy, Pandas)
+
+🔗 **Links:**
+- [Website](#)
+- [GitHub Repository](https://github.com/moonjiuk/hiking-safety-map)

@@ -43,7 +43,7 @@
 - **Period:** 2024.9 - 2024.11  
 - **Description:** 영화 동영상과 정보를 활용해 포스터를 자동 생성하는 AI 구현  
 - **Role:** 1인 개발  
-- **Tech Stack:** Python, Pandas, Numpy, OpenCV, YOLOv5, PyTorch  
+- **Tech Stack:** Python, Pandas, Numpy, OpenCV, YOLOv8, Tensorflow 
 - **Links:**  
   - [GitHub Repository](https://github.com/moonjiuk/poster-ai)
 

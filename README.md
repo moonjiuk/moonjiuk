@@ -24,6 +24,7 @@
  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+ ![Yolo v8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=white)
 
 
 

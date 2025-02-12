@@ -77,5 +77,5 @@
 - **Tech Stack:**  
   - HTML, CSS, JavaScript, React, Node.js, MongoDB, Three.js  
 - **Links:**  
-  - [GitHub Repository](https://github.com/moonjiuk/aboutmoon](https://github.com/moonjiuk/to-the-moon))
+  - [GitHub Repository](https://github.com/moonjiuk/to-the-moon)
 

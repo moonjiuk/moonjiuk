@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Projects
-
+<!--
 ### 🎬 온라인 독립영화 플랫폼
 - **Project Name:** Undergnd  
 - **Period:** 2023.4 - 2024.2  
@@ -69,6 +69,7 @@
   - [GitHub Repository](https://github.com/moonjiuk/safehikingtour)
 
 ---
+-->
 
 ### 🌙 달 소개 웹페이지
 - **Period:** 2022.6 - 2022.7  

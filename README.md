@@ -73,11 +73,5 @@
 -->
 
 ### 🌙 To The Moon
-- **Period:** 2022.6 - 2022.7  
-- **Description:** 달을 소개하는 웹페이지  
-- **Role:** 1인 개발  
-- **Tech Stack:**  
-  - HTML, CSS, JavaScript, React, Node.js, MongoDB, Three.js  
-- **Links:**  
   - [GitHub Repository](https://github.com/moonjiuk/to-the-moon)
 

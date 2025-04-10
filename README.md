@@ -32,7 +32,7 @@ Tools
   <table>
     <tr>
       <td align="center">
-        <img src="./images/to-the-moon.png" width="200" style="border-radius: 12px;" /><br/>
+        <img src="./images/to-the-moon.png" width="400" style="border-radius: 12px;" /><br/>
         <strong>🌙 To The Moon</strong>
       </td>
     </tr>

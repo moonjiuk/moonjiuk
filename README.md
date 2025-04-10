@@ -60,7 +60,7 @@ I will continue to grow as a developer who creates meaningful services with endl
     <tr>
       <td align="center">
         <a href="https://github.com/moonjiuk/to-the-moon" target="_blank">
-          <img src="./images/to-the-moon.png" width="300" style="border-radius: 12px;" />
+          <img src="./images/to-the-moon.png" width="500" style="border-radius: 12px;" />
         </a><br/>
         <strong>🌙 To The Moon</strong>
       </td>

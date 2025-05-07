@@ -6,12 +6,6 @@
 
 앞으로도 선한 영향력을 전할 수 있는, 무궁무진한 가능성을 지닌 서비스를 만들기 위해 끊임없이 성장하는 개발자가 되겠습니다.
 
-My experience developing an online independent film service and hosting a film festival at a U.S. university became the starting point of my journey to become a web developer.
-
-The service provided independent filmmakers with an opportunity to share their work with the world, and I felt a deep sense of fulfillment throughout the process.
-
-I will continue to grow as a developer who creates meaningful services with endless potential and strives to make a positive impact on the world.
-
 ---
 
 ## Tech Stack

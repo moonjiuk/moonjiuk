@@ -51,27 +51,28 @@
 ## Projects
 
 <div align="center">
-  <div>
+  <div style="margin-bottom: 10px;">
     <a href="https://github.com/moonjiuk/to-the-moon" target="_blank">
       <img src="./images/to-the-moon.png" width="500" style="border-radius: 12px;" />
     </a><br/>
     <strong>🌙 To The Moon</strong>
   </div>
-  <br/>
-  <div>
+  
+  <div style="margin-bottom: 10px;">
     <a href="https://github.com/moonjiuk/safe-hiking-tour" target="_blank">
       <img src="./images/safe-hiking-tour.png" width="500" style="border-radius: 12px;" />
     </a><br/>
     <strong>⛰️ Safe Hiking Tour</strong>
   </div>
-  <br/>
-  <div>
+  
+  <div style="margin-bottom: 10px;">
     <a href="https://github.com/moonjiuk/poster-generator" target="_blank">
       <img src="./images/poster-generator.png" width="500" style="border-radius: 12px;" />
     </a><br/>
     <strong>🎬 Poster Generator</strong>
   </div>
 </div>
+
 
 
 

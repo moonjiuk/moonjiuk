@@ -58,7 +58,7 @@
     <strong>🌙 To The Moon</strong>
   </div>
   
-  <br/>
+  <br/><br/>
 
   <div>
     <a href="https://github.com/moonjiuk/safe-hiking-tour" target="_blank">
@@ -67,7 +67,7 @@
     <strong>⛰️ Safe Hiking Tour</strong> 
   </div>
   
-  <br/>
+  <br/><br/>
 
   <div>
     <a href="https://github.com/moonjiuk/poster-generator" target="_blank">

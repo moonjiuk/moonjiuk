@@ -50,7 +50,7 @@
 
 ## Projects
 
-<div>
+<div aline="center">
   <div style="margin: 30px;">
     <a href="https://github.com/moonjiuk/to-the-moon" target="_blank">
       <img src="./images/to-the-moon.png" width="500" style="border-radius: 12px;" />

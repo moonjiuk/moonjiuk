@@ -55,7 +55,7 @@
     <a href="https://github.com/moonjiuk/to-the-moon" target="_blank">
       <img src="./images/to-the-moon.png" width="500" style="border-radius: 12px;" />
     </a><br/>
-    <strong>🌙 To The Moon</strong>
+    <strong style="font-size: 24px;">🌙 To The Moon</strong> <!-- 폰트 사이즈 변경 -->
   </div>
   
   <br/><br/>  <!-- 여백을 주기 위한 두 개의 br 태그 -->
@@ -64,7 +64,7 @@
     <a href="https://github.com/moonjiuk/safe-hiking-tour" target="_blank">
       <img src="./images/safe-hiking-tour.png" width="500" style="border-radius: 12px;" />
     </a><br/>
-    <strong>⛰️ Safe Hiking Tour</strong>
+    <strong style="font-size: 24px;">⛰️ Safe Hiking Tour</strong> <!-- 폰트 사이즈 변경 -->
   </div>
   
   <br/><br/>  <!-- 여백을 주기 위한 두 개의 br 태그 -->
@@ -73,6 +73,7 @@
     <a href="https://github.com/moonjiuk/poster-generator" target="_blank">
       <img src="./images/poster-generator.png" width="500" style="border-radius: 12px;" />
     </a><br/>
-    <strong>🎬 Poster Generator</strong>
+    <strong style="font-size: 24px;">🎬 Poster Generator</strong> <!-- 폰트 사이즈 변경 -->
   </div>
 </div>
+

@@ -67,13 +67,15 @@
     <strong>⛰️ Safe Hiking Tour</strong> 
   </div>
   
+  <!--
   <br/><br/>
-
+  
   <div>
     <a href="https://github.com/moonjiuk/poster-generator" target="_blank">
       <img src="./images/poster-generator.png" width="500" style="border-radius: 12px;" />
     </a><br/>
     <strong>🎬 Poster Generator</strong> 
   </div>
+  -->
 </div>
 

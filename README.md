@@ -80,7 +80,7 @@
   </div>
   
   <br/><br/>
-
+  <!--
   <div>
     <a href="https://github.com/moonjiuk/safe-hiking-tour" target="_blank">
       <img src="./images/safe-hiking-tour.png" width="500" style="border-radius: 12px;" />

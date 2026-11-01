@@ -34,3 +34,13 @@
 <a href="https://github.com/moonjiuk/safe-hiking-tour" title="안전산행투어 GitHub 저장소로 이동">
   <img src="./assets/projects/safe-hiking-tour-rounded.svg" alt="안전산행투어 메인 화면 — 저장소로 이동" width="100%" />
 </a>
+
+<br/>
+
+### 🐝 쿠비 · Coubee
+
+동네 상점과 고객을 연결하는 O2O 커머스 서비스
+
+<a href="https://github.com/moonjiuk/coubee" title="쿠비 GitHub 저장소로 이동">
+  <img src="./assets/projects/coubee-rounded.svg" alt="쿠비 판매자 웹 메인 화면 — 저장소로 이동" width="100%" />
+</a>

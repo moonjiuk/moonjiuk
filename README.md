@@ -16,23 +16,23 @@
 
 <br/>
 
-### Selected Projects
+### Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/moonjiuk/to-the-moon">
         <img src="./images/to-the-moon-main.png" alt="To the Moon 메인 화면" width="100%" />
-        <p><strong>To the Moon</strong></p>
-        <p>달의 지형을 3D와 애니메이션으로<br/>탐색하는 인터랙티브 웹사이트</p>
       </a>
+      <p><strong>To the Moon</strong></p>
+      <p>달의 지형을 3D와 애니메이션으로<br/>탐색하는 인터랙티브 웹사이트</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/moonjiuk/safe-hiking-tour">
         <img src="./images/safe-hiking-tour-main.png" alt="안전산행투어 메인 화면" width="100%" />
-        <p><strong>안전산행투어</strong></p>
-        <p>등산 위험정보·대피소·봉우리를<br/>한눈에 확인하는 지도 서비스</p>
       </a>
+      <p><strong>안전산행투어</strong></p>
+      <p>등산 위험정보·대피소·봉우리를<br/>한눈에 확인하는 지도 서비스</p>
     </td>
   </tr>
 </table>

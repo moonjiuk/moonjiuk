@@ -5,7 +5,7 @@
 
 <br/>
 
-### 스킬
+## 스킬
 
 | 분야 | 기술·도구 |
 | :--- | :--- |
@@ -15,25 +15,22 @@
 
 <br/>
 
-### 프로젝트 링크
-
-<a href="https://github.com/moonjiuk/to-the-moon" title="To the Moon GitHub 저장소로 이동">
-  <img src="./assets/projects/to-the-moon-rounded.svg" alt="To the Moon 메인 화면 — 저장소로 이동" width="400" align="left" />
-</a>
+## 프로젝트 링크
 
 ### To the Moon
 
 달의 지형을 3D와 애니메이션으로 탐색하는 인터랙티브 웹사이트
 
-<br clear="both"/>
-<br/>
-
-<a href="https://github.com/moonjiuk/safe-hiking-tour" title="안전산행투어 GitHub 저장소로 이동">
-  <img src="./assets/projects/safe-hiking-tour-rounded.svg" alt="안전산행투어 메인 화면 — 저장소로 이동" width="400" align="left" />
+<a href="https://github.com/moonjiuk/to-the-moon" title="To the Moon GitHub 저장소로 이동">
+  <img src="./assets/projects/to-the-moon-rounded.svg" alt="To the Moon 메인 화면 — 저장소로 이동" width="100%" />
 </a>
+
+<br/>
 
 ### 안전산행투어
 
 등산 위험정보·대피소·봉우리를 한눈에 확인하는 지도 서비스
 
-<br clear="both"/>
+<a href="https://github.com/moonjiuk/safe-hiking-tour" title="안전산행투어 GitHub 저장소로 이동">
+  <img src="./assets/projects/safe-hiking-tour-rounded.svg" alt="안전산행투어 메인 화면 — 저장소로 이동" width="100%" />
+</a>

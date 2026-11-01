@@ -2,101 +2,37 @@
 
 ---
 
-## Tech Stack
+## Skills
 
-<table>
-  <tr>
-    <td><strong>Productivity</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Web (Frontend)</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Web (Backend & Infra)</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Data &amp; AI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/YOLO-000000?style=flat&logo=ai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Testing</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-
+| 분야 | 기술·도구 |
+| :--- | :--- |
+| **기획·협업** | Figma · Notion · Linear · Slack |
+| **웹 개발** | React · Next.js · TypeScript · Node.js · Git |
+| **데이터·자동화** | Python · SQL · Amplitude |
+| **QA** | QA 정책·테스트 케이스 설계 · 이벤트 로깅 검증 |
 
 ---
 
 ## Projects
 
-<div align="center">
-  <div>
-    <a href="https://github.com/moonjiuk/to-the-moon" target="_blank">
-      <img src="./images/to-the-moon.png" width="500" style="border-radius: 12px;" />
-    </a><br/>
-    <strong>🌙 To The Moon</strong>
-  </div>
-  
-  <br/><br/>
-  <!--
-  <div>
-    <a href="https://github.com/moonjiuk/safe-hiking-tour" target="_blank">
-      <img src="./images/safe-hiking-tour.png" width="500" style="border-radius: 12px;" />
-    </a><br/>
-    <strong>⛰️ Safe Hiking Tour</strong> 
-  </div>
-  
-  <!--
-  <br/><br/>
-  
-  <div>
-    <a href="https://github.com/moonjiuk/poster-generator" target="_blank">
-      <img src="./images/poster-generator.png" width="500" style="border-radius: 12px;" />
-    </a><br/>
-    <strong>🎬 Poster Generator</strong> 
-  </div>
-  -->
-</div>
+### 🌙 To the Moon
 
+달의 지형과 정보를 3D 모델과 애니메이션으로 탐색하는 웹사이트입니다.
+
+<a href="https://to-the-moon-ashen.vercel.app/">
+  <img src="./images/to-the-moon.jpg" alt="To the Moon 실제 화면 — 클릭하면 사이트로 이동합니다" width="620" />
+</a>
+
+[사이트 바로가기](https://to-the-moon-ashen.vercel.app/) · [GitHub](https://github.com/moonjiuk/to-the-moon)
+
+<br/>
+
+### ⛰️ 안전산행투어 · Safe Hiking Tour
+
+봉우리·대피소·위험지역을 지도에서 확인하고, 주변 관광지와 산행 도우미를 이용하는 웹서비스입니다. 지도 영역에 따른 마커 표시와 클러스터링으로 대량의 위험정보를 효율적으로 표시합니다.
+
+<a href="https://safe-hiking-tour.vercel.app/">
+  <img src="./images/safe-hiking-tour.jpg" alt="안전산행투어 실제 지도 화면 — 클릭하면 사이트로 이동합니다" width="620" />
+</a>
+
+[사이트 바로가기](https://safe-hiking-tour.vercel.app/) · [GitHub](https://github.com/moonjiuk/safe-hiking-tour)

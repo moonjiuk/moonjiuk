@@ -17,27 +17,23 @@
 
 ### 프로젝트 링크
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/moonjiuk/to-the-moon" title="To the Moon GitHub 저장소로 이동">
-        <picture>
-          <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/projects/to-the-moon-dark-mobile.svg" />
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/to-the-moon-dark.svg" />
-          <source media="(max-width: 600px)" srcset="./assets/projects/to-the-moon-light-mobile.svg" />
-          <img src="./assets/projects/to-the-moon-light.svg" alt="To the Moon — 달의 지형을 3D와 애니메이션으로 탐색하는 인터랙티브 웹사이트. GitHub 저장소로 이동" width="100%" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/moonjiuk/safe-hiking-tour" title="안전산행투어 GitHub 저장소로 이동">
-        <picture>
-          <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/projects/safe-hiking-tour-dark-mobile.svg" />
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/safe-hiking-tour-dark.svg" />
-          <source media="(max-width: 600px)" srcset="./assets/projects/safe-hiking-tour-light-mobile.svg" />
-          <img src="./assets/projects/safe-hiking-tour-light.svg" alt="안전산행투어 — 등산 위험정보·대피소·봉우리를 한눈에 확인하는 지도 서비스. GitHub 저장소로 이동" width="100%" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/moonjiuk/to-the-moon" title="To the Moon GitHub 저장소로 이동">
+  <img src="./assets/projects/to-the-moon-preview.svg" alt="To the Moon 메인 화면 — 저장소로 이동" width="400" align="left" />
+</a>
+
+### To the Moon
+
+달의 지형을 3D와 애니메이션으로 탐색하는 인터랙티브 웹사이트
+
+<br clear="both"/>
+<br/>
+
+<a href="https://github.com/moonjiuk/safe-hiking-tour" title="안전산행투어 GitHub 저장소로 이동">
+  <img src="./assets/projects/safe-hiking-tour-preview.svg" alt="안전산행투어 메인 화면 — 저장소로 이동" width="400" align="left" />
+</a>
+
+### 안전산행투어
+
+등산 위험정보·대피소·봉우리를 한눈에 확인하는 지도 서비스
+
+<br clear="both"/>

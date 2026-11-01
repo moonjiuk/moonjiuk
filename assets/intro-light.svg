@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" fill="none">
+<title>개발하는 기획자 문지욱입니다.</title>
+<desc>문제를 정의하고, 직접 만들며 개선합니다.</desc>
+<defs><clipPath id="frame"><rect x=".5" y=".5" width="879" height="209" rx="20"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="880" height="210" fill="#f4f7f5"/>
+<circle cx="848" cy="28" r="100" stroke="#3d785e" stroke-opacity=".13"/>
+<circle cx="848" cy="28" r="72" stroke="#3d785e" stroke-opacity=".13"/>
+<circle cx="848" cy="28" r="44" fill="#3d785e" fill-opacity=".06"/>
+<path d="M680 210L795 70L910 210" stroke="#3d785e" stroke-opacity=".14"/>
+<text x="36" y="37" fill="#64766f" font-family="Arial,sans-serif" font-size="11" letter-spacing="2.5">JIUK MOON / PRODUCT &amp; DEVELOPMENT</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-weight="700" letter-spacing="-1">
+<text x="36" y="89" fill="#18342d" font-size="30">개발하는 기획자</text>
+<text x="36" y="132" fill="#3d785e" font-size="36">문지욱입니다.</text>
+</g>
+<text x="36" y="174" fill="#64766f" font-family="-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="14">문제를 정의하고, 직접 만들며 개선합니다.</text>
+</g>
+<rect x=".5" y=".5" width="879" height="209" rx="20" stroke="#dce6e0"/>
+</svg>

@@ -12,28 +12,28 @@
 <sub><b>PRODUCT & COLLABORATION</b></sub>
 
 <p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-344B43?style=flat&logo=figma&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-344B43?style=flat&logo=notion&logoColor=white" />
-  <img alt="Linear" src="https://img.shields.io/badge/Linear-344B43?style=flat&logo=linear&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-344B43?style=flat&logo=slack&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-344B43?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-344B43?style=for-the-badge&logo=notion&logoColor=white" />
+  <img alt="Linear" src="https://img.shields.io/badge/Linear-344B43?style=for-the-badge&logo=linear&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-344B43?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 
 <sub><b>DEVELOPMENT</b></sub>
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-344453?style=flat&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-344453?style=flat&logo=nextdotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-344453?style=flat&logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-344453?style=flat&logo=nodedotjs&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-344453?style=flat&logo=git&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-344453?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-344453?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-344453?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-344453?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-344453?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <sub><b>DATA & QA</b></sub>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-514959?style=flat&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-514959?style=flat&logo=mysql&logoColor=white" />
-  <img alt="Amplitude" src="https://img.shields.io/badge/Amplitude-514959?style=flat&logo=amplitude&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-514959?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-514959?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Amplitude" src="https://img.shields.io/badge/Amplitude-514959?style=for-the-badge&logo=amplitude&logoColor=white" />
   <br/>
   <sub>QA 정책 · 테스트 케이스 설계 · 이벤트 로깅 검증</sub>
 </p>

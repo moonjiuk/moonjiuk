@@ -18,7 +18,7 @@
 ### 프로젝트 링크
 
 <a href="https://github.com/moonjiuk/to-the-moon" title="To the Moon GitHub 저장소로 이동">
-  <img src="./assets/projects/to-the-moon-preview.svg" alt="To the Moon 메인 화면 — 저장소로 이동" width="400" align="left" />
+  <img src="./assets/projects/to-the-moon-rounded.svg" alt="To the Moon 메인 화면 — 저장소로 이동" width="400" align="left" />
 </a>
 
 ### To the Moon
@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/moonjiuk/safe-hiking-tour" title="안전산행투어 GitHub 저장소로 이동">
-  <img src="./assets/projects/safe-hiking-tour-preview.svg" alt="안전산행투어 메인 화면 — 저장소로 이동" width="400" align="left" />
+  <img src="./assets/projects/safe-hiking-tour-rounded.svg" alt="안전산행투어 메인 화면 — 저장소로 이동" width="400" align="left" />
 </a>
 
 ### 안전산행투어

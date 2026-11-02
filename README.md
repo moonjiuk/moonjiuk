@@ -27,6 +27,16 @@
 
 <br/>
 
+### 🍎 산속농원 · 산속 놀이터
+
+제천 산지 사과를 소개하고 상품·주문을 관리하는 직거래 웹사이트
+
+<a href="https://github.com/moonjiuk/sansok-apple-shop" title="산속농원 GitHub 저장소로 이동">
+  <img src="./assets/projects/sansok-rounded.svg" alt="산속농원 메인 화면 — 저장소로 이동" width="100%" />
+</a>
+
+<br/>
+
 ### ⛰️ 안전산행투어
 
 등산 위험정보·대피소·봉우리를 한눈에 확인하는 지도 서비스
